@@ -80,7 +80,7 @@ section h2 {
 }
 
 #mainNav .navbar-toggler {
-  font-size: 12px;
+  font-size: 25px;
   padding: 8px 10px;
   color: #222222;
 }
@@ -286,7 +286,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/warranty.png");
   background-position: center;
   background-size: cover;
 }
@@ -295,6 +295,12 @@ section.cta .cta-content {
   position: relative;
   z-index: 1;
 }
+
+/* section.cta .cta-content .container{
+  position: absolute;
+  top: -200px;
+  left: 20px;
+} */
 
 section.cta .cta-content h2 {
   font-size: 50px;
