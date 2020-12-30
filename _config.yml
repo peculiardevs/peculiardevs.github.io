@@ -116,6 +116,7 @@ exclude:
   - README.md
   - CNAME
   - [VENDOR]
+  - VENDOR
 
 collections:
   pages:
