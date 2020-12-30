@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Jan 1 2021
+Dec 28 2020
 
 # Privacy Policy
 This page is used to inform app visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
